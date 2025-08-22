@@ -1,2 +1,2 @@
 # MTE-GAT
-We'll add code and data later.
+The full source code will be released soon.
